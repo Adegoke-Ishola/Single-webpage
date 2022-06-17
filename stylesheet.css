@@ -1,0 +1,33 @@
+*{
+    margin = 0;
+    Padding = 0;
+    Display = box-sizing;
+    }
+    .container{
+    Width:100vw;
+    Height:100vw;
+    /* Background_image */
+    }
+    .main{ 
+    Padding:20px;
+    Display: flex;
+    Justify-content:center;
+    Margin:20px;
+    Width:auto;
+    Height:100%,
+    }
+    .learn{ 
+    Width:50px;
+    Padding-bottom: 20px;
+    /* Font-family = ;
+    Font-size = ; */
+    }
+    /* .learn p{ 
+    Font-family=  ;
+    Font-size=   ;
+    } */
+    .stack{ 
+    border-width:50px;
+    float: right;
+    border-radius:8px;
+    }
